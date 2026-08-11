@@ -1,0 +1,40 @@
+english,telugu_original,telugu_lora
+The chief minister inaugurated the new hospital in the capital city.,రాజధాని లోని కొత్త ఆసుపత్రిని ముఖ్యమంత్రి ప్రారంభించారు.,రాజధానిలో కొత్త ఆసుపత్రిని ప్రారంభించిన ముఖ్యమంత్రి.
+The government announced a new policy for farmers yesterday.,రైతుల కోసం ప్రభుత్వం నిన్న కొత్త విధానాన్ని ప్రకటించింది.,రైతులకు కొత్త విధానం ప్రకటించిన ప్రభుత్వం.
+The court delivered its verdict on the long-standing case.,సుదీర్ఘకాలం కొనసాగుతున్న కేసుపై కోర్టు తీర్పు చెప్పింది.,సుదీర్ఘకాలంగా కొనసాగుతున్న కేసుపై న్యాయస్థానం తీర్పు వెలువరించింది.
+The minister stated that the budget will be presented next month.,వచ్చే నెలలో బడ్జెట్ను ప్రవేశపెట్టనున్నట్లు మంత్రి తెలిపారు.,వచ్చే నెలలో బడ్జెట్ ను ప్రవేశపెట్టనున్నట్లు మంత్రి తెలిపారు.
+Officials confirmed that the investigation is still ongoing.,ఈ కేసులో ఇంకా దర్యాప్తు కొనసాగుతోందని అధికారులు ధృవీకరించారు.,ఈ మేరకు దర్యాప్తు కొనసాగుతోందని అధికారులు తెలిపారు.
+The company reported a significant increase in its annual profits.,కంపెనీ వార్షిక లాభాల్లో గణనీయమైన పెరుగుదల నమోదైందని తెలిపింది.,సంస్థ వార్షిక లాభాల్లో గణనీయమైన పెరుగుదల ఉందని పేర్కొంది.
+The commission has approved the new industrial project.,కొత్త పారిశ్రామిక ప్రాజెక్టును కమిషన్ ఆమోదించింది.,కొత్త పారిశ్రామిక ప్రాజెక్టుకు కమిషన్ ఆమోదం తెలిపింది.
+The state government has implemented new tax regulations.,రాష్ట్ర ప్రభుత్వం కొత్త పన్ను నిబంధనలను అమలు చేసింది.,రాష్ట్ర ప్రభుత్వం కొత్త పన్ను నిబంధనలు జారీ చేసింది.
+The minister explained the details of the new scheme to the assembly.,ఈ కొత్త పథకం గురించి మంత్రి సభకు వివరాలు వివరించారు.,ఈ కొత్త పథకం గురించి మంత్రి శాసనసభకు వివరించారు.
+The department issued new guidelines for the upcoming elections.,రాబోయే ఎన్నికల కోసం కొత్త మార్గదర్శకాలను విడుదల చేసింది.,రానున్న ఎన్నికల కోసం కొత్త మార్గదర్శకాలు జారీ చేసినట్లు మంత్రిత్వ శాఖ వెల్లడించింది.
+The committee reviewed the progress of the development program.,అభివృద్ధి కార్యక్రమంలో పురోగతిపై కమిటీ సమీక్ష నిర్వహించింది.,అభివృద్ధి పథకం పురోగతిని సమీక్షించిన కమిటీ
+The chief minister said the welfare scheme will benefit all citizens.,ఈ సంక్షేమ పథకం వల్ల పౌరులందరికీ ప్రయోజనం కలుగుతుందని ముఖ్యమంత్రి అన్నారు.,ఈ సంక్షేమ పథకం అన్ని పౌరులకు ప్రయోజనకరంగా ఉంటుందని ముఖ్యమంత్రి తెలిపారు.
+How are you doing today?,మీరు ఎలా ఉన్నారు నేడు?,ఈ రోజు ఎలా ఉన్నావు?
+Let's meet for coffee tomorrow.,రేపు కాఫీ కోసం కలవండి.,రేపు కాఫీ తాగడానికి కలుద్దాం.
+The weather is really nice today.,వాతావరణం నిజంగా nice నేడు.,ఈ రోజు వాతావరణం చాలా బాగుంది.
+I am waiting for the bus right now.,నేను బస్సు కోసం వేచి ఉన్నాను.,ప్రస్తుతం బస్సు కోసం ఎదురుచూస్తున్నానని తెలిపారు.
+Call me when you reach home.,మీరు ఇంటికి వచ్చినప్పుడు నాకు కాల్.,ఇంటికి వచ్చినప్పుడు ఫోన్ చేయి.
+What did you have for breakfast?,మీరు అల్పాహారం కోసం ఏమి తిన్నారు?,మీరు అల్పాహారం కోసం ఏమి తిన్నారు?
+I will come to your house this evening.,నేను ఈ సాయంత్రం మీ ఇంటికి వస్తాను.,ఈరోజు సాయంత్రం మీ ఇంటికి వస్తాను.
+The food at that restaurant is very good.,ఆ రెస్టారెంట్ లో ఆహారం చాలా బాగుంది.,ఈ రెస్టారెంట్ లో వంటకాలు చాలా మంచివి.
+My phone battery is low.,నా ఫోన్ బ్యాటరీ తక్కువ ఉంది.,నా ఫోన్ బ్యాటరీ చాలా తక్కువ ఉంది.
+Can you help me with this?,మీరు ఈ తో నాకు సహాయం చేయవచ్చు?,మీరు ఈ విషయంలో నాకు సహాయం చేయగలరా?
+I am going to the market to buy some vegetables.,నేను మార్కెట్కు వెళ్లి కొన్ని కూరగాయలు కొనుగోలు చేస్తాను.,నేను మార్కెట్ లో కూరగాయలు కొనుగోలు చేస్తాను.
+The movie starts at seven in the evening.,సినిమా సాయంత్రం ఏడు గంటలకు ప్రారంభమవుతుంది.,సాయంత్రం ఏడు గంటలకు సినిమా ప్రారంభం కానుంది.
+My son scored good marks in his exams.,నా కొడుకు తన పరీక్షల్లో మంచి మార్కులు సాధించాడు.,నా కొడుకు పరీక్షల్లో మంచి మార్కులు సాధించాడు.
+Please turn off the lights before you leave.,మీరు బయలుదేరే ముందు దయచేసి లైట్లు ఆపివేయండి.,మీరు బయలుదేరే ముందు లైట్లను ఆపివేయండి.
+"Warning: coolant temperature high, please check the cooling system.","హెచ్చరికః శీతలీకరణ ద్రవ ఉష్ణోగ్రత అధికంగా ఉంది, దయచేసి శీతలీకరణ వ్యవస్థను తనిఖీ చేయండి.","హెచ్చరిక: శీతలీకరణ ద్రవ ఉష్ణోగ్రత అధికంగా ఉంది, దయచేసి శీతలీకరణ వ్యవస్థను తనిఖీ చేయండి."
+Machine 3 stopped due to low oil pressure.,యంత్రం 3 తక్కువ చమురు ఒత్తిడి కారణంగా నిలిపివేయబడింది.,చమురు ఒత్తిడి తగ్గిపోవడంతో ఇంజన్ 3 ఆపేశారు.
+Conveyor belt speed is above the normal limit.,కన్వేయర్ బెల్ట్ వేగం సాధారణ పరిమితి కంటే ఎక్కువగా ఉంటుంది.,కన్వేయర్ బెల్ట్ వేగం సాధారణ పరిమితి కంటే ఎక్కువగా ఉంది.
+"The compressor pressure is dropping, inspect the valves.","కంప్రెసర్ ఒత్తిడి పడిపోతోంది, వాల్వ్లు తనిఖీ.","కంప్రెసర్ ఒత్తిడి పడిపోతుంది, వాల్వ్లను తనిఖీ చేయండి."
+Emergency stop activated on production line 2.,ఉత్పత్తి లైన్ 2 లో అత్యవసర స్టాప్ యాక్టివేట్.,ఉత్పత్తి లైన్ 2లో ఎమర్జెన్సీ స్టాప్ సక్రియం చేయబడింది.
+Vibration levels on motor 4 exceed the safe threshold.,మోటార్ 4 లోని వైబ్రేషన్ స్థాయిలు సురక్షిత పరిమితిని మించి ఉంటాయి.,మోటార్ 4లో వైబ్రేషన్ స్థాయిలు సురక్షిత పరిమితిని మించిపోయాయి.
+"The reactor temperature reached 120 degrees, reduce the load.","రియాక్టర్ ఉష్ణోగ్రత 120 డిగ్రీల చేరుకుంది, లోడ్ తగ్గించడానికి.","120 డిగ్రీల వరకు రియాక్టర్ ఉష్ణోగ్రతకు చేరుకుంది, ఇది లోడ్ను తగ్గిస్తుంది."
+Maintenance is scheduled for pump 7 at 2 PM.,పంపు 7 కోసం నిర్వహణ 2 గంటలకు షెడ్యూల్ చేయబడింది.,పంపు 7కి 2 గంటలకు నిర్వహణ నిర్వహణను చేపట్టనున్నట్లు తెలిపారు.
+"Power supply interrupted, switching to backup generator.","విద్యుత్ సరఫరా అంతరాయం, బ్యాకప్ జెనరేటర్ మారడం.","విద్యుత్ సరఫరా అంతరాయం, బ్యాకప్ జనరేటర్ కు మారడం."
+Lubrication cycle completed for press machine 5.,ప్రెస్ యంత్రం కోసం తుది రొయ్య చక్రం 5.,ప్రెస్ మెషిన్ 5 కోసం లూబ్రికేషన్ చక్రం పూర్తయింది.
+Hydraulic pressure in the press is below the required level.,పత్రికా లోని హైడ్రాలిక్ పీడనం అవసరమైన స్థాయికి తక్కువగా ఉంటుంది.,ప్రెస్ లో హైడ్రాలిక్ పీడనం అవసరమైన స్థాయికి తక్కువగా ఉంటుంది.
+Quality check failed for batch number 12.,12వ బ్యాచ్ కోసం నాణ్యత తనిఖీ విఫలమైంది.,బ్యాచ్ 12 కోసం నాణ్యత తనిఖీ విఫలమైంది.
+"The furnace temperature is rising too fast, slow the feed rate.","ఓవెన్ ఉష్ణోగ్రత చాలా వేగంగా పెరుగుతోంది, ఫీడ్ రేటు నెమ్మదిగా.","ఉష్ణోగ్రత చాలా వేగంగా పెరుగుతోంది, ఫీడ్ రేటు నెమ్మదిగా ఉంటుంది."
