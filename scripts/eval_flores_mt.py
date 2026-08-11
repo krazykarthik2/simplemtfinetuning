@@ -58,7 +58,8 @@ def main():
         sacrebleu.corpus_chrf(base_out, [list(refs)]).score,
     ))
 
-    lora = PeftModel.from_pretrained(base, args.adapter).to(device).eval()
+    lora_base = AutoModelForSeq2SeqLM.from_pretrained(MODEL, dtype=torch.float16).to(device).eval()
+    lora = PeftModel.from_pretrained(lora_base, args.adapter).to(device).eval()
     lora_out = translate_batch(lora, tok, list(srcs), device)
     print("LORA  BLEU: %.2f  chrF: %.2f" % (
         sacrebleu.corpus_bleu(lora_out, [list(refs)]).score,
