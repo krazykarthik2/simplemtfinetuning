@@ -1,0 +1,13 @@
+transformers>=4.46
+peft>=0.11
+datasets>=2.19
+accelerate>=0.33
+torch>=2.3
+torchaudio>=2.1
+numpy
+scipy
+soundfile
+jiwer
+pyyaml
+# optional: for the framework's IndicTrans2 translation module
+# transformers[sentencepiece]
