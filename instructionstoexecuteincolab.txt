@@ -1,0 +1,52 @@
+How to run this project in Google Colab
+=======================================
+
+1) Create a new Colab notebook
+   - Open https://colab.research.google.com
+   - Create a new notebook.
+   - Runtime -> Change runtime type -> Hardware accelerator -> GPU.
+
+2) Clone the repository
+   - In a notebook cell, run:
+     `!git clone https://github.com/krazykarthik2/simplemtfinetuning.git`
+   - Then move into the repo:
+     `%cd /content/simplemtfinetuning`
+
+3) Install dependencies
+   - Run:
+     `!pip install -r requirements.txt sacrebleu`
+
+4) (Optional but recommended) Verify GPU
+   - Run:
+     `import torch; print(torch.cuda.is_available(), torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'No GPU')`
+
+5) Start LoRA training
+   - Run:
+     `!python -m lspear.mt --config configs/mt_formal_te.yaml`
+   - This trains an English->Telugu formal-register LoRA adapter and saves outputs under:
+     `configs/outputs/mt_formal_te/` (as referenced by helper scripts) and training artifacts under configured output directory.
+
+6) Generate sample translations
+   - Run:
+     `!python scripts/generate_samples.py`
+   - Output file:
+     `outputs/samples.txt`
+
+7) Verify formal-register behavior (qualitative)
+   - Run (use your final adapter checkpoint path):
+     `!python scripts/verify_formal_te.py --adapter configs/outputs/mt_formal_te/checkpoint-final`
+
+8) Evaluate on FLORES (quantitative)
+   - Run:
+     `!python scripts/eval_flores_mt.py --adapter configs/outputs/mt_formal_te/checkpoint-final --max-n 200`
+   - Prints BLEU and chrF scores for base vs LoRA.
+
+9) Download generated outputs to local machine (optional)
+   - In Colab:
+     `from google.colab import files`
+     `files.download('outputs/samples.txt')`
+
+10) Notes
+   - First run may take time due to model/dataset downloads.
+   - If you get out-of-memory, reduce batch size in `configs/mt_formal_te.yaml`.
+   - If adapter path differs, update `--adapter` argument accordingly.
