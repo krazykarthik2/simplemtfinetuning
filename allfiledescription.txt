@@ -1,0 +1,64 @@
+Repository file descriptions
+============================
+
+1) .gitignore
+   - Tells Git to ignore Python cache files and `configs/outputs/` artifacts.
+
+2) L-SPEAR Framework.pdf
+   - Project document describing the larger L-SPEAR framework context.
+
+3) README.md
+   - Currently empty placeholder for project-level documentation.
+
+4) requirements.txt
+   - Python dependency list for training/evaluation (Transformers, PEFT, Datasets, Torch, metrics, YAML).
+
+5) todo.md
+   - Task checklist for English->Telugu formal-register LoRA work.
+
+6) configs/mt_formal_te.yaml
+   - Main configuration for MT LoRA training.
+   - Stores model choice, language codes, LoRA hyperparameters, data limits, and training arguments.
+
+7) lspear/__init__.py  (Python)
+   - Package initializer for `lspear`.
+   - Defines the package version string (`__version__`).
+
+8) lspear/mt.py  (Python)
+   - Core training pipeline for formal-register English->Telugu MT with LoRA.
+   - Code flow (brief):
+     * Defines Telugu formal/official/colloquial markers and filters data to a formal subset.
+     * Defines `MTConfig` dataclass with YAML loading and path resolution helpers.
+     * Loads Samanantar En-Te data, filters/formats/tokenizes examples.
+     * Builds a seq2seq base model, applies LoRA adapters, and enables training options.
+     * Trains with `Seq2SeqTrainer`, computes BLEU/chrF metrics, and saves final adapter/tokenizer.
+
+9) scripts/generate_samples.py  (Python)
+   - Generates example translations and writes `outputs/samples.txt` CSV.
+   - Code flow (brief):
+     * Loads base NLLB and LoRA-adapted model.
+     * Translates predefined English sample sentences.
+     * Saves side-by-side original vs LoRA Telugu outputs.
+
+10) scripts/verify_formal_te.py  (Python)
+    - Quick qualitative verification script for formal-register behavior.
+    - Code flow (brief):
+      * Loads base model and LoRA adapter.
+      * Translates a fixed list of formal/admin English test sentences.
+      * Prints base vs LoRA Telugu outputs for manual comparison.
+
+11) scripts/eval_flores_mt.py  (Python)
+    - Quantitative evaluation on FLORES-200 devtest.
+    - Code flow (brief):
+      * Loads aligned English/Telugu FLORES pairs.
+      * Runs batched translation with base model and LoRA model.
+      * Computes and prints BLEU/chrF for both systems.
+
+12) outputs/samples.txt
+    - Generated CSV output containing sample English inputs with base and LoRA Telugu translations.
+
+13) allfiledescription.txt
+    - This file: repository-wide file list plus purpose/summary.
+
+14) instructionstoexecuteincolab.txt
+    - Step-by-step instructions to run this project in Google Colab.
