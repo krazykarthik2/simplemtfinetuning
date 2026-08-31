@@ -1,0 +1,11 @@
+a methodology that does this for the thing is MSME specific lexeme and word usage and slang usage for better.
+like the main goal is that when you want any thing to translate to telugu current general model will translate it generally not suited to the specific situation. to overcome that we fine tune a nllb-600m param # model from facebook for machine translation.
+then we construct a pipeline of asr of english to listen to any instructions or something then english -> telugu machine translation and then telugu -> tts model.
+for asr model we are using vasista22/whisper-telugu-small model which performed better and gave good wer, cer.
+now, we are planning to do this. asr -> en -> ( en -> te mt)-> tts of telugu + cloned voice of a person using rvc trained using applio colab?
+then use that model efficiently and deploy on jetson nano ( todo  ).
+then we also wanna do  actually make this an improvement or future thing or plan but give a lot of space to this too.
+a lexeme extractor from telugu audio then agentically it checks if the sentence formation is correct or not then fine tune the machine translation model on this data by generating various english instructions and then doing it through an agent which decides if the sample is worth training on or not.
+https://github.com/krazykarthik2/simplemtfinetuning
+https://github.com/krazykarthik2/lexemeextractorfromaudio_telugu
+nllb-600m param # model, vasista22/whisper-telugu-small
